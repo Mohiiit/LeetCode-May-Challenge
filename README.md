@@ -21,3 +21,5 @@ Day 8 -> Check if it is a Straight line
 
 Day 9 -> Perfect square
 
+Day 10 -> Find The Town Judge
+
